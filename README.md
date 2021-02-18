@@ -1,1 +1,1 @@
-# rsschool-cv
+https://nasoker.github.io/rsschool-cv/cv
