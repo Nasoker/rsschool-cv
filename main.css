@@ -46,6 +46,7 @@ h2{
     font-size:30px;
 }
 
-.main-ul{
+.main-ul,
+.skills-ul{
     list-style: none;
 }
